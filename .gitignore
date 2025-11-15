@@ -218,3 +218,7 @@ __marimo__/
 # Variantes/compresiones
 *.parquet.snappy
 *.snappy
+
+.DS_Store
+
+/smadex-challenge-predict-the-revenue/
