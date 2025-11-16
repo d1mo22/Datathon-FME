@@ -1,0 +1,14 @@
+{
+  "optimal_threshold": 0.7240015589922223,
+  "scale_pos_weight": 10.0,
+  "n_features": 14,
+  "classifier_n_estimators": 200,
+  "regressor_n_estimators": 200,
+  "undersampling": {
+    "enabled": true,
+    "target_ratio": 10,
+    "original_samples": 765249,
+    "balanced_samples": 230461,
+    "reduction_pct": 69.88418148863964
+  }
+}
